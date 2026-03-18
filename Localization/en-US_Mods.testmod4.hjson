@@ -15,4 +15,9 @@ Items: {
 		DisplayName: T S T42
 		Tooltip: ""
 	}
+
+	Item_R001: {
+		DisplayName: Item_ R001
+		Tooltip: ""
+	}
 }
