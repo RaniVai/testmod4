@@ -29,9 +29,19 @@ namespace testmod4.Content.Items.Placeable
         public override void AddRecipes()
 
         {
+            // 新しいレシピを作成します（このアイテムを1個作る設定）
             Recipe recipe = CreateRecipe();
-            recipe.AddIngredient(ItemID.DirtBlock, 10);
-            recipe.AddTile(TileID.WorkBenches);
+
+            // 【材料1】金鉱石（Gold Ore）を5個
+            recipe.AddIngredient(ItemID.GoldOre, 5);
+
+            // 【材料2】プラチナ鉱石（Platinum Ore）を5個
+            recipe.AddIngredient(ItemID.PlatinumOre, 5);
+
+            // 【場所】かまど（Furnace）のそばで作成可能にする
+            recipe.AddTile(TileID.Furnaces);
+
+            // このレシピをゲームに登録して完成！
             recipe.Register();
         }
     }
