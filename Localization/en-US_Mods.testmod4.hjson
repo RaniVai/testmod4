@@ -35,4 +35,11 @@ Items: {
 		DisplayName: Sun Platinum Chainmail
 		Tooltip: ""
 	}
+
+	Alloystation: {
+		DisplayName: Alloystation
+		Tooltip: ""
+	}
 }
+
+Tiles.AlloyStationTile.MapEntry: Alloy Station Tile

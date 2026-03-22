@@ -39,7 +39,7 @@ namespace testmod4.Content.Items.Placeable
             recipe.AddIngredient(ItemID.PlatinumOre, 5);
 
             // 【場所】かまど（Furnace）のそばで作成可能にする
-            recipe.AddTile(TileID.Furnaces);
+            recipe.AddTile(ModContent.TileType<Tiles.AlloyStationTile>());
 
             // このレシピをゲームに登録して完成！
             recipe.Register();
