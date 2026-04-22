@@ -21,8 +21,8 @@ Items: {
 		Tooltip: oops
 	}
 
-	Armor_1: {
-		DisplayName: Armor_1
+	SunPlatinumLeggings: {
+		DisplayName: Sun Platinum Leggings
 		Tooltip: ""
 	}
 

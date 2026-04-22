@@ -1,13 +1,12 @@
-﻿using Terraria;
+using Terraria;
 using Terraria.ID;
-using Terraria.Localization;
 using Terraria.ModLoader;
 using testmod4.Content.Items.Placeable;
 
 namespace testmod4.Content.Items.Armor
 {
     [AutoloadEquip(EquipType.Legs)]
-    public class Armor_1 : ModItem
+    public class SunPlatinumLeggings: ModItem
     {
 
         public override void SetDefaults()
@@ -15,7 +14,7 @@ namespace testmod4.Content.Items.Armor
 
             Item.defense = 8; // 防御力
             Item.value = 10000; // 売値 (1ゴールド)
-            Item.rare = 2; // レア度
+            Item.rare = ItemRarityID.Green; // レア度
         }
 
         public override void AddRecipes()
