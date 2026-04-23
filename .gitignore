@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Ignore local test item files
+Content/Items/TST4.cs
+Content/Items/TST4.png
+Content/Items/TST42.cs
+Content/Items/TST42.png
