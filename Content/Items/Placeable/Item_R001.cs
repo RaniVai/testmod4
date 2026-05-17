@@ -3,7 +3,7 @@ using Terraria.GameContent;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace testmod4.Content.Items.Placeable
+namespace ProjectDynamicAlloy.Content.Items.Placeable
 {
     public class Item_R001 : ModItem
     {

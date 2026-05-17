@@ -1,4 +1,4 @@
-# testmod4構成概要
+# ProjectDynamicAlloy構成概要
 正式名称はProject: Dynamic Alloy (プロジェクト：ダイナミック・アロイ)予定
 
 ## 追加金属類

@@ -5,7 +5,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria.ObjectData;
 
-namespace testmod4.Content.Tiles
+namespace ProjectDynamicAlloy.Content.Tiles
 {
     public class AlloyStationTile : ModTile
     {

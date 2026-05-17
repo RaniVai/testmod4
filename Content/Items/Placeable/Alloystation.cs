@@ -1,7 +1,7 @@
 ﻿using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace testmod4.Content.Items.Placeable
+namespace ProjectDynamicAlloy.Content.Items.Placeable
 {
     public class Alloystation : ModItem
     {

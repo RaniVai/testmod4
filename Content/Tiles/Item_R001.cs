@@ -6,7 +6,7 @@ using Terraria.ObjectData;
 using Terraria.ID;
 
 
-namespace testmod4.Content.Tiles
+namespace ProjectDynamicAlloy.Content.Tiles
 {
     public class Item_R001 : ModTile
     {

@@ -1,6 +1,6 @@
-# testmod4
+# ProjectDynamicAlloy
 
-`testmod4` は、Terraria / tModLoader 向けに「ゲーム内の金属の用途を拡張する」ことを目的として制作している MOD です。
+`ProjectDynamicAlloy` は、Terraria / tModLoader 向けに「ゲーム内の金属の用途を拡張する」ことを目的として制作している MOD です。
 
 ## Status
 

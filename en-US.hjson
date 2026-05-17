@@ -1,0 +1,42 @@
+Mods: {
+	ProjectDynamicAlloy: {
+		Tiles.AlloyStationTile.MapEntry: Alloy Station Tile
+
+		Items: {
+			SunPlatinumChainmail: {
+				DisplayName: Sun Platinum Chainmail
+				Tooltip: ""
+			}
+
+			SunPlatinumHelmet: {
+				DisplayName: Sun Platinum Helmet
+				Tooltip: ""
+			}
+
+			SunPlatinumLeggings: {
+				DisplayName: Sun Platinum Leggings
+				Tooltip: ""
+			}
+
+			Alloystation: {
+				DisplayName: Alloystation
+				Tooltip: ""
+			}
+
+			Item_R001: {
+				DisplayName: Item_ R001
+				Tooltip: ""
+			}
+
+			TST4: {
+				DisplayName: T S T4
+				Tooltip: ""
+			}
+
+			TST42: {
+				DisplayName: T S T42
+				Tooltip: ""
+			}
+		}
+	}
+}

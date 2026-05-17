@@ -1,3 +1,3 @@
-displayName = testmod4
+displayName = Project: Dynamic Alloy
 author = Ranivai
 version = 0.1

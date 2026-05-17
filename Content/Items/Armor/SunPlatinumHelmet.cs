@@ -1,9 +1,9 @@
 ﻿using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using testmod4.Content.Items.Placeable;
+using ProjectDynamicAlloy.Content.Items.Placeable;
 
-namespace testmod4.Content.Items.Armor
+namespace ProjectDynamicAlloy.Content.Items.Armor
 {
     [AutoloadEquip(EquipType.Head)]
     public class SunPlatinumHelmet: ModItem
